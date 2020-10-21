@@ -1,14 +1,15 @@
-|layout: single|
-| --- | --- |
-title: Mouse Form
-header: no
-categories:
-  - archetypes
-tags:
-  - form
-  - HCI
-  - mouse
----
+|layout: single   |
+| --- | ---       |
+|title: Mouse Form|
+|header: no       |
+|categories:      |
+|  - archetypes   |
+|tags:            |
+|  - form         |
+| - HCI           |
+| - mouse         |
+
+
 Παράδειγμα διαδραστικού κώδικα που χρησιμοποιεί το ποντίκι ως συσκευή εισόδου για τη συμπλήρωση της φόρμας και δίνει ως έξοδο το ανάλογο αποτέλεσμα στην οθόνη.
 
 <p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="p19verg" data-slug-hash="dyXGOvg" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="dyXGOvg">
