@@ -14,6 +14,7 @@ events:
   - smalltalk
   - pygmalion
   - basic-language
+  - python
   - microsoft-basic
   - kidsim
   - hypercard-layout
