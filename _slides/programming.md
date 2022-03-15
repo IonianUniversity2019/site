@@ -15,6 +15,7 @@ slides:
   - smalltalk
   - pygmalion
   - bbc-micro
+  - python
   - kidsim
   - hypercard-layout
   - max-language
