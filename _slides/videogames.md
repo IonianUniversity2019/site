@@ -9,7 +9,6 @@ slides:
   - magnavox-odyssey
   - pong
   - atari-adventure
-  - super-mario
   - pop
   - c64-demoscene
   - math-blaster
