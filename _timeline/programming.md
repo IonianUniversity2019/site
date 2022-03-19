@@ -15,7 +15,6 @@ events:
   - pygmalion
   - basic-language
   - microsoft-basic
-  - python
   - kidsim
   - hypercard-layout
   - java
