@@ -14,6 +14,7 @@ slides:
   - logo-graphics
   - smalltalk
   - pygmalion
+  - python
   - bbc-micro
   - kidsim
   - hypercard-layout
